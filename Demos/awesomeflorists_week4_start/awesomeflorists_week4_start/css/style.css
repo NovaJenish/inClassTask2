@@ -1,0 +1,40 @@
+body{
+    width: 75%;
+    border: 2px solid black;
+    margin: 10px;
+}
+header{
+    text-align: center;
+    color: brown;
+    margin: 10px;
+}
+nav{
+    background-color: blanchedalmond;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 10px;
+}
+nav a{
+    color: brown;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 30px;
+    margin: 10px;
+}
+img{
+    width: 100%;
+    margin: 10px;
+}
+footer{
+    text-align: center;
+    color: brown;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: blanchedalmond;
+    margin: 10px;
+}
+main{
+    margin: 10px;
+}
